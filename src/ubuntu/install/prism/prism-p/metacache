@@ -11,6 +11,96 @@
             "remote_changed_timestamp": "Fri, 28 Aug 2020 23:39:56 GMT"
         },
         {
+            "base": "ModpacksCHPacks",
+            "current_age": 493103,
+            "etag": "\"r6y7io23oq\"",
+            "last_changed_timestamp": 1675272798253,
+            "max_age": 31536000,
+            "md5sum": "8fb6c6b93b548467e787ce4226380438",
+            "path": "logos/FTB Chocolate",
+            "remote_changed_timestamp": "Mon, 07 Feb 2022 19:01:36 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "current_age": 121198,
+            "etag": "\"rgd2zwqxr\"",
+            "last_changed_timestamp": 1675272797665,
+            "max_age": 31536000,
+            "md5sum": "c5de73545da822da873bcf24014a7a2f",
+            "path": "logos/FTB Inferno",
+            "remote_changed_timestamp": "Tue, 09 Aug 2022 18:50:20 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "current_age": 556769,
+            "etag": "\"ro11lj14tpu\"",
+            "last_changed_timestamp": 1675272797469,
+            "max_age": 31536000,
+            "md5sum": "3e59a6e31bbdd4da5cb5218c5aa66949",
+            "path": "logos/FTB Legend of the Eyes",
+            "remote_changed_timestamp": "Thu, 05 Jan 2023 19:17:43 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "current_age": 1806728,
+            "etag": "\"rdfk3jmnj5\"",
+            "last_changed_timestamp": 1675272797881,
+            "max_age": 31536000,
+            "md5sum": "067a2ea7a9d505724ccebc37c228ca70",
+            "path": "logos/FTB One",
+            "remote_changed_timestamp": "Mon, 13 Jun 2022 19:14:07 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "current_age": 1814232,
+            "etag": "\"rd0qaol0h9\"",
+            "last_changed_timestamp": 1675272797993,
+            "max_age": 31536000,
+            "md5sum": "ac0b2341d97f279ecdedeccb6bfd5e92",
+            "path": "logos/FTB Plexiglass Mountain",
+            "remote_changed_timestamp": "Sun, 05 Jun 2022 19:04:00 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "current_age": 2178768,
+            "etag": "\"rmiopedvn3\"",
+            "last_changed_timestamp": 1675272797585,
+            "max_age": 31536000,
+            "md5sum": "8a0e9f633777201f95656b82c82c913e",
+            "path": "logos/FTB Presents Direwolf20 1",
+            "remote_changed_timestamp": "Wed, 07 Dec 2022 10:48:50 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "current_age": 1820418,
+            "etag": "\"q82v0y88mz\"",
+            "last_changed_timestamp": 1675272805533,
+            "max_age": 31536000,
+            "md5sum": "56c8b0760e60aa2c824d4673ed82b1ae",
+            "path": "logos/FTB Revelation",
+            "remote_changed_timestamp": "Tue, 31 Mar 2020 21:43:46 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "current_age": 2455960,
+            "etag": "\"rkeizv13ie6\"",
+            "last_changed_timestamp": 1675272797749,
+            "max_age": 31536000,
+            "md5sum": "fc2e2dc6b1fa6209028a98668789446d",
+            "path": "logos/FTB StoneBlock 3",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:47:55 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "current_age": 2506942,
+            "etag": "\"r3fqcehxzm\"",
+            "last_changed_timestamp": 1675272798425,
+            "max_age": 31536000,
+            "md5sum": "2265ea6150e6734d1be3eebe17ef8d65",
+            "path": "logos/FTB Ultimate: Anniversary Edition",
+            "remote_changed_timestamp": "Wed, 01 Dec 2021 11:53:02 GMT"
+        },
+        {
             "base": "ModrinthPacks",
             "current_age": 0,
             "etag": "\"7cdbfb3d7a9bf01f3715acebd1b98ca8\"",
@@ -1087,6 +1177,16 @@
         {
             "base": "meta",
             "current_age": 0,
+            "etag": "W/\"63da8899-451e\"",
+            "last_changed_timestamp": 1675272842309,
+            "max_age": 600,
+            "md5sum": "656f118498e39e1ee93ab8a28683fb88",
+            "path": "net.minecraft/1.12.2.json",
+            "remote_changed_timestamp": "Wed, 01 Feb 2023 15:43:21 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
             "etag": "W/\"639e1236-4f3b\"",
             "last_changed_timestamp": 1671392349288,
             "max_age": 600,
@@ -1096,13 +1196,33 @@
         },
         {
             "base": "meta",
-            "current_age": 27,
-            "etag": "W/\"639e1236-5098a\"",
-            "last_changed_timestamp": 1671391027289,
+            "current_age": 0,
+            "etag": "W/\"63da8899-50e7f\"",
+            "last_changed_timestamp": 1675272786501,
             "max_age": 600,
-            "md5sum": "308736c3e535059193224683b730a069",
+            "md5sum": "41f98c56e5e2307e965779d9534863ed",
             "path": "net.minecraft/index.json",
-            "remote_changed_timestamp": "Sat, 17 Dec 2022 19:02:14 GMT"
+            "remote_changed_timestamp": "Wed, 01 Feb 2023 15:43:21 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"63da8899-2756\"",
+            "last_changed_timestamp": 1675272842225,
+            "max_age": 600,
+            "md5sum": "6b8a538e60a8383527c2d3a7cb64ffce",
+            "path": "net.minecraftforge/14.23.5.2858.json",
+            "remote_changed_timestamp": "Wed, 01 Feb 2023 15:43:21 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"63da8899-1d68\"",
+            "last_changed_timestamp": 1675272842465,
+            "max_age": 600,
+            "md5sum": "ba52056c04340d75126223e91e859c28",
+            "path": "org.lwjgl/2.9.4-nightly-20150209.json",
+            "remote_changed_timestamp": "Wed, 01 Feb 2023 15:43:21 GMT"
         },
         {
             "base": "meta",
@@ -1126,13 +1246,13 @@
         },
         {
             "base": "translations",
-            "current_age": 9,
-            "etag": "W/\"639f5824-4757\"",
-            "last_changed_timestamp": 1671391011169,
+            "current_age": 530,
+            "etag": "W/\"63da556f-4998\"",
+            "last_changed_timestamp": 1675272773601,
             "max_age": 600,
-            "md5sum": "e3d75886c2a038daba19c6cdc3303892",
+            "md5sum": "f4200b5b790f6d3cf09f37e36805f8f2",
             "path": "index_v2.json",
-            "remote_changed_timestamp": "Sun, 18 Dec 2022 18:12:52 GMT"
+            "remote_changed_timestamp": "Wed, 01 Feb 2023 12:05:03 GMT"
         }
     ],
     "version": "1"
