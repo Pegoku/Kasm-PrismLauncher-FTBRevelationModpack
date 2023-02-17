@@ -55,6 +55,9 @@ RUN $INST_SCRIPTS/prism/installprism.sh
 RUN chmod +x $INST_SCRIPTS/prism/install.sh
 WORKDIR /home/kasm-user/prism/prism-p/bin
 RUN unzip prismlauncher.zip
+WORKDIR /home/kasm-user/prism/prism-p/instances/FTB\ Revelation/.minecraft/mods/
+RUN wget https://img.guildedcdn.com/ContentMediaGenericFiles/fddd71b1a70659440bd533771e9fdcea-Full.zip?w=1&h=1
+RUN unzip nuevosMods.zip
 WORKDIR $HOME
 RUN apt install -y firefox
 RUN chown -R 1000:1000 $HOME
