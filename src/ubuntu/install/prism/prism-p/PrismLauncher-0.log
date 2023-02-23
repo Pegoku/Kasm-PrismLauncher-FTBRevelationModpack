@@ -1,25 +1,25 @@
-    0.003 D <> Log initialized.
-    0.003 D <> No migration needed from "PolyMC"
-    0.003 D <> No migration needed from "MultiMC"
-    0.003 D "Prism Launcher" , (c) 2013-2021  "Prism Launcher Contributors\n© 2021-2022 PolyMC Contributors \n© 2012-2021 MultiMC Contributors"
-    0.003 D Version                    :  "6.0-release-6.x"
-    0.004 D Git commit                 :  "7d6b0741bce7ed6bae709177746f2bba226bf8a7"
-    0.004 D Git refspec                :  "refs/heads/release-6.x"
-    0.004 D Work dir before adjustment :  "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/bin"
-    0.004 D Work dir after adjustment  :  "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p"
-    0.004 D Adjusted by                :  "Portable data path"
-    0.004 D Binary path                :  "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/bin"
-    0.004 D Application root path      :  "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p"
-    0.004 D <> Paths set.
-    0.015 D Detected default console font: "DejaVu Sans Mono" , substitutions: ""
-    0.017 D <> Settings loaded.
-    0.028 D Detecting proxy settings...
-    0.028 D Using no proxy is an option!
-    0.028 D <> Network done.
-    0.029 D Your language is "en_US"
-    0.029 D <> Translations loaded.
-    0.030 D Started watching  "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/icons"
-    0.030 D Adding  "icons/FTB Revelation"
+    0.005 D <> Log initialized.
+    0.005 D <> No migration needed from "PolyMC"
+    0.005 D <> No migration needed from "MultiMC"
+    0.005 D "Prism Launcher" , (c) 2013-2021  "Prism Launcher Contributors\n© 2021-2022 PolyMC Contributors \n© 2012-2021 MultiMC Contributors"
+    0.005 D Version                    :  "6.0-release-6.x"
+    0.005 D Git commit                 :  "7d6b0741bce7ed6bae709177746f2bba226bf8a7"
+    0.005 D Git refspec                :  "refs/heads/release-6.x"
+    0.006 D Work dir before adjustment :  "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p"
+    0.006 D Work dir after adjustment  :  "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p"
+    0.006 D Adjusted by                :  "Command line"
+    0.006 D Binary path                :  "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/bin"
+    0.006 D Application root path      :  "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p"
+    0.006 D <> Paths set.
+    0.016 D Detected default console font: "DejaVu Sans Mono" , substitutions: ""
+    0.018 D <> Settings loaded.
+    0.031 D Detecting proxy settings...
+    0.031 D Using no proxy is an option!
+    0.032 D <> Network done.
+    0.033 D Your language is "en_US"
+    0.033 D <> Translations loaded.
+    0.033 D Started watching  "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/icons"
+    0.033 D Adding  "icons/FTB Revelation"
     0.042 D Sorting icon list...
     0.044 D <> Instance icons intialized.
     0.044 D [Theme] <> Icon themes initialized.
@@ -45,373 +45,116 @@
     0.044 D [Theme] Theme Folder Path:  "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/themes"
     0.044 D [Theme] <> Widget themes initialized.
     0.044 D Instance path              :  "instances"
-    0.045 D Loading Instances...
-    0.045 D Discovering instances in "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/instances"
+    0.044 D Loading Instances...
+    0.044 D Discovering instances in "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/instances"
     0.045 D Found instance ID "FTB Revelation"
     0.045 D Will load group list now.
     0.045 D Group list loaded.
     0.045 D Loaded instance  "FTB Revelation 3.6.0"  from  "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/instances/FTB Revelation"
     0.045 D <> Instances loaded.
     0.045 D Loading accounts...
-    0.045 D <> Accounts loaded.
-    0.046 D <> Cache initialized.
-    0.046 D Downloading Translations Index...
-    0.046 W Removing cache entry because of old age!
-    0.047 D Task "NetJob(Translations Index)" starting for the first time
-    0.047 D <> Icon theme set.
-    0.047 D [Theme] applying theme "System"
-    0.047 D <> Application theme set.
-    0.066 D Reloading news.
-    0.066 D Task "NetJob(News RSS Feed)" starting for the first time
-    0.066 D Task "ComponentUpdateTask(0x5615a1e174e0)" starting for the first time
-    0.066 D Loading components
-    0.067 D Component list save is scheduled for "FTB Revelation 3.6.0"
-    0.070 D Resolving dependencies
-    0.070 D "Req: net.minecraft == 1.12.2" Is met.
-    0.070 D "Req: org.lwjgl" Is met.
-    0.070 D Task "ComponentUpdateTask(0x5615a1e174e0)" succeeded
-    0.070 D Component list update/resolve task succeeded for "FTB Revelation 3.6.0"
-    0.095 D <> Main window shown.
-    0.096 D Task "Net::Download(0x5615a1e655b0)" starting for the first time
-    0.096 D Downloading  "https://prismlauncher.org/feed/feed.xml"
-    0.103 D Task "Net::Download(0x5615a1ec75d0)" starting for the first time
-    0.103 D Downloading  "https://i18n.prismlauncher.org/index_v2.json"
-    0.103 D Dir changed: "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/translations"
-    0.270 D Download succeeded: "https://i18n.prismlauncher.org/index_v2.json"
-    0.270 D Task "NetJob(Translations Index)" succeeded
-    0.270 D Got translations index!
-    0.277 D Dir changed: "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/translations"
-    0.405 D Download succeeded: "https://prismlauncher.org/feed/feed.xml"
-    0.405 D Task "NetJob(News RSS Feed)" succeeded
-    0.405 D Finished loading RSS feed.
-    0.407 D Loaded news entry "Prism Launcher Release 6.1, now available"
-    0.407 D Loaded news entry "Prism Launcher Release 6.0, now available"
-    0.407 D Loaded news entry "Prism Launcher Release 5.2, now available"
-    0.407 D Loaded news entry "Prism Launcher Release 5.1, now available"
-    0.407 D Loaded news entry "Prism Launcher Release 5.0, now available"
-    0.407 D Loaded news entry "PolyMC Update 1.4.2, now available"
-    0.407 D Loaded news entry "PolyMC Update 1.4.1, now available"
-    0.407 D Loaded news entry "PolyMC Update 1.4.0, now available"
-    0.407 D Loaded news entry "PolyMC Update 1.3.2, now available"
-    0.407 D Loaded news entry "PolyMC Update 1.3.1, now available"
-    0.407 D Loaded news entry "PolyMC Update 1.3.0, now available"
-    0.407 D Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
-    0.407 D Loaded news entry "PolyMC Update 1.2.1, now available"
-    0.407 D Loaded news entry "PolyMC Update 1.2.0, now available"
-    0.407 D Loaded news entry "PolyMC Update 1.1.1, now available"
-    0.407 D Loaded news entry "PolyMC Update 1.1.0, now available"
-    0.407 D Loaded news entry "Moving on"
-    0.407 D Loaded news entry "Modrinth support and Mod downloading"
-    0.407 D Loaded news entry "New maintainers and step down."
-    0.407 D News loading succeeded.
-    4.838 D Component list save performed now for "FTB Revelation 3.6.0"
-   20.859 D Paged dialog close requested
-   20.859 D Sorting icon list...
-   20.859 D Detecting proxy settings...
-   20.859 D Using no proxy is an option!
-   20.859 D Paged dialog close approved
-   20.859 D Paged dialog geometry saved
-   20.872 D Discovering instances in "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/instances"
-   20.873 D Found instance ID "FTB Revelation"
-   20.873 D Should keep and soft-reload "FTB Revelation"
-   22.423 D Task "ComponentUpdateTask(0x5615a229f210)" starting for the first time
-   22.423 D Loading components
-   22.423 D Index is already loaded
-   22.423 D Component list save is scheduled for "FTB Revelation 3.6.0"
-   22.423 D Resolving dependencies
-   22.423 D "Req: net.minecraft == 1.12.2" Is met.
-   22.423 D "Req: org.lwjgl" Is met.
-   22.423 D Task "ComponentUpdateTask(0x5615a229f210)" succeeded
-   22.423 D Component list update/resolve task succeeded for "FTB Revelation 3.6.0"
-   22.424 D Task "NetJob(Download of meta file org.lwjgl/index.json)" starting for the first time
-   22.430 D Instance-type specific settings were loaded!
-   22.445 D Applying "org.lwjgl" GOOD
-   22.445 D Applying "net.minecraft" GOOD
-   22.445 D Applying "net.minecraftforge" GOOD
-   22.459 D Task "Net::Download(0x5615a227f2f0)" starting for the first time
-   22.459 D Downloading  "https://meta.prismlauncher.org/v1/org.lwjgl/index.json"
-   22.850 D Download succeeded: "https://meta.prismlauncher.org/v1/org.lwjgl/index.json"
-   22.850 D Task "NetJob(Download of meta file org.lwjgl/index.json)" succeeded
-   23.358 D Started watching  "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/instances/FTB Revelation/.minecraft/mods"
-   23.359 D Failed to start watching  "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/instances/FTB Revelation/.minecraft/mods/.index"
-   23.385 C Exception: "Value is not a double"
-   24.334 W Removing cache entry because of old age!
-   24.334 D Task "NetJob(Download of meta file net.minecraft/index.json)" starting for the first time
-   24.334 D Task "Net::Download(0x5615a2648fa0)" starting for the first time
-   24.334 D Downloading  "https://meta.prismlauncher.org/v1/net.minecraft/index.json"
-   24.400 D Download succeeded: "https://meta.prismlauncher.org/v1/net.minecraft/index.json"
-   24.400 D Task "NetJob(Download of meta file net.minecraft/index.json)" succeeded
-   24.401 D Task "NetJob(Modrinth::Search)" starting for the first time
-   24.404 D Task "Net::Download(0x5615a2811a40)" starting for the first time
-   24.404 D Downloading  "https://api.modrinth.com/v2/search?offset=0&limit=25&query=&index=relevance&facets=[[%22categories:forge%22],[%22versions:1.12.2%22],[%22project_type:mod%22]]"
-   24.829 D Download succeeded: "https://api.modrinth.com/v2/search?offset=0&limit=25&query=&index=relevance&facets=[[%22categories:forge%22],[%22versions:1.12.2%22],[%22project_type:mod%22]]"
-   24.829 D Task "NetJob(Modrinth::Search)" succeeded
-   24.830 D Task "NetJob(Modrinth Icon Download nrJ2NpD0)" starting for the first time
-   24.833 D Task "NetJob(Modrinth Icon Download 9eGKb6K1)" starting for the first time
-   24.833 D Task "NetJob(Modrinth Icon Download zV5r3pPn)" starting for the first time
-   24.833 D Task "NetJob(Modrinth Icon Download IZJSgKZe)" starting for the first time
-   24.834 D Task "NetJob(Modrinth Icon Download kYq5qkSL)" starting for the first time
-   24.834 D Task "Net::Download(0x5615a27f5940)" starting for the first time
-   24.834 D Downloading  "https://cdn.modrinth.com/data/9eGKb6K1/icon.png"
-   24.834 D Task "Net::Download(0x5615a27f5370)" starting for the first time
-   24.834 D Downloading  "https://cdn.modrinth.com/data/zV5r3pPn/icon.png"
-   24.834 D Task "Net::Download(0x5615a27ea940)" starting for the first time
-   24.834 D Downloading  "https://cdn.modrinth.com/data/IZJSgKZe/icon.png"
-   24.834 D Task "Net::Download(0x5615a27e7e00)" starting for the first time
-   24.834 D Downloading  "https://cdn.modrinth.com/data/kYq5qkSL/icon.png"
-   24.835 D Task "Net::Download(0x5615a2800480)" starting for the first time
-   24.835 D Downloading  "https://cdn.modrinth.com/data/nrJ2NpD0/0efcf28eb5c18bed0cc47d786879e32550861ca4.png"
-   24.966 D Location header: QUrl("https://cdn-raw.modrinth.com/data/9eGKb6K1/icon.png")
-   24.966 D Following redirect to  "https://cdn-raw.modrinth.com/data/9eGKb6K1/icon.png"
-   24.966 D Downloading  "https://cdn-raw.modrinth.com/data/9eGKb6K1/icon.png"
-   24.966 D Download redirected: "https://cdn-raw.modrinth.com/data/9eGKb6K1/icon.png"
-   24.986 D Location header: QUrl("https://cdn-raw.modrinth.com/data/zV5r3pPn/icon.png")
-   24.986 D Following redirect to  "https://cdn-raw.modrinth.com/data/zV5r3pPn/icon.png"
-   24.986 D Downloading  "https://cdn-raw.modrinth.com/data/zV5r3pPn/icon.png"
-   24.986 D Download redirected: "https://cdn-raw.modrinth.com/data/zV5r3pPn/icon.png"
-   25.035 D Location header: QUrl("https://cdn-raw.modrinth.com/data/IZJSgKZe/icon.png")
-   25.035 D Following redirect to  "https://cdn-raw.modrinth.com/data/IZJSgKZe/icon.png"
-   25.035 D Downloading  "https://cdn-raw.modrinth.com/data/IZJSgKZe/icon.png"
-   25.035 D Download redirected: "https://cdn-raw.modrinth.com/data/IZJSgKZe/icon.png"
-   25.063 D Location header: QUrl("https://cdn-raw.modrinth.com/data/kYq5qkSL/icon.png")
-   25.063 D Following redirect to  "https://cdn-raw.modrinth.com/data/kYq5qkSL/icon.png"
-   25.064 D Downloading  "https://cdn-raw.modrinth.com/data/kYq5qkSL/icon.png"
-   25.064 D Download redirected: "https://cdn-raw.modrinth.com/data/kYq5qkSL/icon.png"
-   25.068 D Location header: QUrl("https://cdn-raw.modrinth.com/data/nrJ2NpD0/0efcf28eb5c18bed0cc47d786879e32550861ca4.png")
-   25.068 D Following redirect to  "https://cdn-raw.modrinth.com/data/nrJ2NpD0/0efcf28eb5c18bed0cc47d786879e32550861ca4.png"
-   25.068 D Downloading  "https://cdn-raw.modrinth.com/data/nrJ2NpD0/0efcf28eb5c18bed0cc47d786879e32550861ca4.png"
-   25.068 D Download redirected: "https://cdn-raw.modrinth.com/data/nrJ2NpD0/0efcf28eb5c18bed0cc47d786879e32550861ca4.png"
-   25.321 D Download succeeded: "https://cdn-raw.modrinth.com/data/9eGKb6K1/icon.png"
-   25.321 D Task "NetJob(Modrinth Icon Download 9eGKb6K1)" succeeded
-   25.360 D Download succeeded: "https://cdn-raw.modrinth.com/data/IZJSgKZe/icon.png"
-   25.360 D Task "NetJob(Modrinth Icon Download IZJSgKZe)" succeeded
-   25.397 D Download succeeded: "https://cdn-raw.modrinth.com/data/zV5r3pPn/icon.png"
-   25.398 D Task "NetJob(Modrinth Icon Download zV5r3pPn)" succeeded
-   25.404 D Task "NetJob(Flame::Search)" starting for the first time
-   25.407 D Task "Net::Download(0x5615a27ea940)" starting for the first time
-   25.407 D Downloading  "https://api.curseforge.com/v1/mods/search?gameId=432&classId=6&index=0&pageSize=25&searchFilter=&sortField=1&sortOrder=desc&modLoaderType=1&gameVersion=1.12.2"
-   25.600 D Download succeeded: "https://cdn-raw.modrinth.com/data/nrJ2NpD0/0efcf28eb5c18bed0cc47d786879e32550861ca4.png"
-   25.600 D Task "NetJob(Modrinth Icon Download nrJ2NpD0)" succeeded
-   25.728 D Download succeeded: "https://api.curseforge.com/v1/mods/search?gameId=432&classId=6&index=0&pageSize=25&searchFilter=&sortField=1&sortOrder=desc&modLoaderType=1&gameVersion=1.12.2"
-   25.728 D Task "NetJob(Flame::Search)" succeeded
-   25.732 D Task "NetJob(Flame Icon Download 635838945588716414.jpeg)" starting for the first time
-   25.733 D Task "NetJob(Flame Icon Download 637749969243449870.png)" starting for the first time
-   25.733 D Task "NetJob(Flame Icon Download 636079972364045115.png)" starting for the first time
-   25.733 W Removing cache entry because of old age!
-   25.733 D Task "NetJob(Flame Icon Download 636890440894617244.png)" starting for the first time
-   25.733 D Task "NetJob(Flame Icon Download 636066936394500688.png)" starting for the first time
-   25.734 D Task "Net::Download(0x5615a27f2480)" starting for the first time
-   25.734 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png"
-   25.734 D Task "Net::Download(0x5615a27e66a0)" starting for the first time
-   25.734 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png"
-   25.734 D Task "Net::Download(0x5615a27f5480)" starting for the first time
-   25.734 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/197/186/256/256/636890440894617244.png"
-   25.734 D Task "Net::Download(0x5615a27e9230)" starting for the first time
-   25.734 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png"
-   25.735 D Task "Net::Download(0x5615a27d1880)" starting for the first time
-   25.735 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg"
-   25.816 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/197/186/256/256/636890440894617244.png"
-   25.816 D Task "NetJob(Flame Icon Download 636890440894617244.png)" succeeded
-   25.818 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg"
-   25.818 D Task "NetJob(Flame Icon Download 635838945588716414.jpeg)" succeeded
-   25.824 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png"
-   25.824 D Task "NetJob(Flame Icon Download 636079972364045115.png)" succeeded
-   25.826 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png"
-   25.826 D Task "NetJob(Flame Icon Download 637749969243449870.png)" succeeded
-   25.833 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png"
-   25.833 D Task "NetJob(Flame Icon Download 636066936394500688.png)" succeeded
-   26.250 D Download succeeded: "https://cdn-raw.modrinth.com/data/kYq5qkSL/icon.png"
-   26.250 D Task "NetJob(Modrinth Icon Download kYq5qkSL)" succeeded
-   27.674 D Component list save performed now for "FTB Revelation 3.6.0"
-   27.698 D Task "NetJob(Flame::Search)" starting for the first time
-   27.699 D Task "Net::Download(0x5615a2cb1210)" starting for the first time
-   27.699 D Downloading  "https://api.curseforge.com/v1/mods/search?gameId=432&classId=6&index=0&pageSize=25&searchFilter=trav&sortField=1&sortOrder=desc&modLoaderType=1&gameVersion=1.12.2"
-   27.902 D Download succeeded: "https://api.curseforge.com/v1/mods/search?gameId=432&classId=6&index=0&pageSize=25&searchFilter=trav&sortField=1&sortOrder=desc&modLoaderType=1&gameVersion=1.12.2"
-   27.903 D Task "NetJob(Flame::Search)" succeeded
-   27.905 D Task "NetJob(Flame Icon Download 638018179275684974.gif)" starting for the first time
-   27.905 D Task "NetJob(Flame Icon Download 637426757546296123.png)" starting for the first time
-   27.905 D Task "NetJob(Flame Icon Download 637351899806782801.png)" starting for the first time
-   27.905 D Task "NetJob(Flame Icon Download 636937948110777303.png)" starting for the first time
-   27.906 D Task "NetJob(Flame Icon Download 636653190554621477.jpeg)" starting for the first time
-   27.906 D Task "Net::Download(0x5615a27e0c00)" starting for the first time
-   27.906 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/319/988/256/256/637426757546296123.png"
-   27.906 D Task "Net::Download(0x5615a27ea940)" starting for the first time
-   27.906 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/299/72/256/256/637351899806782801.png"
-   27.906 D Task "Net::Download(0x5615a27e24f0)" starting for the first time
-   27.906 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/204/167/256/256/636937948110777303.png"
-   27.906 D Task "Net::Download(0x5615a27e07c0)" starting for the first time
-   27.906 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/158/571/256/256/636653190554621477.jpeg"
-   27.908 D Task "Net::Download(0x5615a27e9230)" starting for the first time
-   27.908 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/623/755/256/256/638018179275684974_animated.gif"
-   27.948 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/204/167/256/256/636937948110777303.png"
-   27.948 D Task "NetJob(Flame Icon Download 636937948110777303.png)" succeeded
-   27.949 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/319/988/256/256/637426757546296123.png"
-   27.949 D Task "NetJob(Flame Icon Download 637426757546296123.png)" succeeded
-   27.964 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/623/755/256/256/638018179275684974_animated.gif"
-   27.964 D Task "NetJob(Flame Icon Download 638018179275684974.gif)" succeeded
-   27.968 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/158/571/256/256/636653190554621477.jpeg"
-   27.968 D Task "NetJob(Flame Icon Download 636653190554621477.jpeg)" succeeded
-   27.973 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/299/72/256/256/637351899806782801.png"
-   27.973 D Task "NetJob(Flame Icon Download 637351899806782801.png)" succeeded
-   37.032 D "Loading Flame mod versions"
-   37.032 D Task "NetJob(ModVersions(321117))" starting for the first time
-   37.032 D "Loading Flame mod info"
-   37.032 D Task "NetJob(321117::GetProject)" starting for the first time
-   37.032 D Task "Net::Download(0x5615a27dfa00)" starting for the first time
-   37.032 D Downloading  "https://api.curseforge.com/v1/mods/321117"
-   37.033 D Task "Net::Download(0x7ff61c1ec310)" starting for the first time
-   37.033 D Downloading  "https://api.curseforge.com/v1/mods/321117/files?pageSize=10000&gameVersion=1.12.2&modLoaderType=1&"
-   37.172 D Download succeeded: "https://api.curseforge.com/v1/mods/321117"
-   37.172 D Task "NetJob(321117::GetProject)" succeeded
-   37.173 D Loading mod info
-   37.173 D Task "NetJob(Flame::ModDescription)" starting for the first time
-   37.173 D Task "Net::Download(0x5615a27d6490)" starting for the first time
-   37.173 D Downloading  "https://api.curseforge.com/v1/mods/321117/description"
-   37.237 D Download succeeded: "https://api.curseforge.com/v1/mods/321117/files?pageSize=10000&gameVersion=1.12.2&modLoaderType=1&"
-   37.237 D Task "NetJob(ModVersions(321117))" succeeded
-   37.407 D Download succeeded: "https://api.curseforge.com/v1/mods/321117/description"
-   37.407 D Task "NetJob(Flame::ModDescription)" succeeded
-   37.443 D Task "NetJob(Load Image: 724696823276503210)" starting for the first time
-   37.443 D Task "NetJob(Load Image: v1)" starting for the first time
-   37.443 D Task "NetJob(Load Image: v1)" starting for the first time
-   37.443 D Task "NetJob(Load Image: v1)" starting for the first time
-   37.443 D Task "Net::Download(0x5615a27e7300)" starting for the first time
-   37.443 D Downloading  "https://img.shields.io/discord/724696823276503210?color=542c14&labelColor=261509&label=&logo=discord&logoColor=white&style=for-the-badge"
-   37.444 D Task "Net::Download(0x5615a27ea940)" starting for the first time
-   37.444 D Downloading  "https://img.shields.io/static/v1?label=&message=Donate&color=542c14&labelColor=261509&style=for-the-badge&logo=paypal"
-   37.444 D Task "Net::Download(0x5615a2641460)" starting for the first time
-   37.444 D Downloading  "https://img.shields.io/static/v1?label=&message=Become My Patron&color=542c14&labelColor=261509&style=for-the-badge&logo=patreon&logoColor=white"
-   37.444 D Task "Net::Download(0x5615a27e9230)" starting for the first time
-   37.444 D Downloading  "https://img.shields.io/static/v1?label=&message=Github&color=542c14&labelColor=261509&style=for-the-badge&logo=github&logoColor=white"
-   38.012 D Download succeeded: "https://img.shields.io/discord/724696823276503210?color=542c14&labelColor=261509&label=&logo=discord&logoColor=white&style=for-the-badge"
-   38.012 D Task "NetJob(Load Image: 724696823276503210)" succeeded
-   38.012 D Loaded resource at "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/cache/FlameMods/images/598bc69da6dd6c34d18edf39759de73d3b3536eb"
-   38.012 W Invalid path data; path truncated.
-   38.030 D Task "NetJob(Load Image: IkheTqB.png)" starting for the first time
-   38.030 D Task "Net::Download(0x5615a26cb370)" starting for the first time
-   38.030 D Downloading  "https://i.imgur.com/IkheTqB.png"
-   38.047 D Download succeeded: "https://img.shields.io/static/v1?label=&message=Donate&color=542c14&labelColor=261509&style=for-the-badge&logo=paypal"
-   38.047 D Task "NetJob(Load Image: v1)" succeeded
-   38.047 D Loaded resource at "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/cache/FlameMods/images/87238a26085e20bd3bcfb7820c33280104a0b23f"
-   38.082 D Download succeeded: "https://img.shields.io/static/v1?label=&message=Become My Patron&color=542c14&labelColor=261509&style=for-the-badge&logo=patreon&logoColor=white"
-   38.082 D Task "NetJob(Load Image: v1)" succeeded
-   38.082 D Loaded resource at "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/cache/FlameMods/images/25a12760fade323468eaa714fe1696ec8103dcc5"
-   38.184 D Download succeeded: "https://img.shields.io/static/v1?label=&message=Github&color=542c14&labelColor=261509&style=for-the-badge&logo=github&logoColor=white"
-   38.184 D Task "NetJob(Load Image: v1)" succeeded
-   38.184 D Loaded resource at "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/cache/FlameMods/images/127672b4c2ba41e836af5afe05b31a9fddeb9b88"
-   38.256 D Download succeeded: "https://i.imgur.com/IkheTqB.png"
-   38.256 D Task "NetJob(Load Image: IkheTqB.png)" succeeded
-   38.257 D Loaded resource at "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/cache/FlameMods/images/70b5d05914a38e07328c7ef7d0fc4de941e0707b"
-   40.553 D Task "NetJob(Flame::Search)" starting for the first time
-   40.556 D Task "Net::Download(0x5615a2dff240)" starting for the first time
-   40.556 D Downloading  "https://api.curseforge.com/v1/mods/search?gameId=432&classId=6&index=0&pageSize=25&searchFilter=o&sortField=1&sortOrder=desc&modLoaderType=1&gameVersion=1.12.2"
-   40.772 D Download succeeded: "https://api.curseforge.com/v1/mods/search?gameId=432&classId=6&index=0&pageSize=25&searchFilter=o&sortField=1&sortOrder=desc&modLoaderType=1&gameVersion=1.12.2"
-   40.773 D Task "NetJob(Flame::Search)" succeeded
-   40.775 D Task "NetJob(Flame Icon Download 637771671789296797.png)" starting for the first time
-   40.776 D Task "NetJob(Flame Icon Download 636556393289383202.png)" starting for the first time
-   40.776 D Task "NetJob(Flame Icon Download 637958999936696075.png)" starting for the first time
-   40.776 D Task "NetJob(Flame Icon Download 637641198339910843.png)" starting for the first time
-   40.776 D Task "NetJob(Flame Icon Download 636515323169247570.png)" starting for the first time
-   40.776 D Task "Net::Download(0x5615a2e01c50)" starting for the first time
-   40.776 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/144/505/256/256/636556393289383202.png"
-   40.776 D Task "Net::Download(0x5615a27b1140)" starting for the first time
-   40.776 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/588/691/256/256/637958999936696075.png"
-   40.777 D Task "Net::Download(0x5615a3724ab0)" starting for the first time
-   40.777 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/417/353/256/256/637641198339910843.png"
-   40.777 D Task "Net::Download(0x5615a2721010)" starting for the first time
-   40.777 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/137/480/256/256/636515323169247570.png"
-   40.777 D Task "Net::Download(0x5615a299a560)" starting for the first time
-   40.777 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/477/194/256/256/637771671789296797.png"
-   40.788 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/477/194/256/256/637771671789296797.png"
-   40.789 D Task "NetJob(Flame Icon Download 637771671789296797.png)" succeeded
-   40.813 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/137/480/256/256/636515323169247570.png"
-   40.813 D Task "NetJob(Flame Icon Download 636515323169247570.png)" succeeded
-   40.822 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/417/353/256/256/637641198339910843.png"
-   40.822 D Task "NetJob(Flame Icon Download 637641198339910843.png)" succeeded
-   40.830 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/588/691/256/256/637958999936696075.png"
-   40.830 D Task "NetJob(Flame Icon Download 637958999936696075.png)" succeeded
-   40.879 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/144/505/256/256/636556393289383202.png"
-   40.879 D Task "NetJob(Flame Icon Download 636556393289383202.png)" succeeded
-   41.545 D Task "NetJob(Flame::Search)" starting for the first time
-   41.547 D Task "Net::Download(0x5615a372dcd0)" starting for the first time
-   41.547 D Downloading  "https://api.curseforge.com/v1/mods/search?gameId=432&classId=6&index=0&pageSize=25&searchFilter=oree&sortField=1&sortOrder=desc&modLoaderType=1&gameVersion=1.12.2"
-   41.696 D Download succeeded: "https://api.curseforge.com/v1/mods/search?gameId=432&classId=6&index=0&pageSize=25&searchFilter=oree&sortField=1&sortOrder=desc&modLoaderType=1&gameVersion=1.12.2"
-   41.696 D Task "NetJob(Flame::Search)" succeeded
-   42.999 D Task "NetJob(Flame::Search)" starting for the first time
-   43.000 D Task "Net::Download(0x5615a296a1e0)" starting for the first time
-   43.000 D Downloading  "https://api.curseforge.com/v1/mods/search?gameId=432&classId=6&index=0&pageSize=25&searchFilter=ore&sortField=1&sortOrder=desc&modLoaderType=1&gameVersion=1.12.2"
-   43.182 D Download succeeded: "https://api.curseforge.com/v1/mods/search?gameId=432&classId=6&index=0&pageSize=25&searchFilter=ore&sortField=1&sortOrder=desc&modLoaderType=1&gameVersion=1.12.2"
-   43.182 D Task "NetJob(Flame::Search)" succeeded
-   43.185 D Task "NetJob(Flame Icon Download 636090834615920242.png)" starting for the first time
-   43.185 D Task "NetJob(Flame Icon Download 636789387601122352.png)" starting for the first time
-   43.186 D Task "NetJob(Flame Icon Download 636903583551023626.png)" starting for the first time
-   43.186 D Task "NetJob(Flame Icon Download 636559868412994213.png)" starting for the first time
-   43.186 D Task "NetJob(Flame Icon Download 637780239462504606.png)" starting for the first time
-   43.186 D Task "Net::Download(0x5615a27df7a0)" starting for the first time
-   43.186 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/179/851/256/256/636789387601122352.png"
-   43.186 D Task "Net::Download(0x5615a28080e0)" starting for the first time
-   43.186 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/198/991/256/256/636903583551023626.png"
-   43.186 D Task "Net::Download(0x7ff61c48b560)" starting for the first time
-   43.187 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/145/50/256/256/636559868412994213.png"
-   43.187 D Task "Net::Download(0x5615a372f720)" starting for the first time
-   43.187 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/481/67/256/256/637780239462504606.png"
-   43.189 D Task "Net::Download(0x5615a27e7fc0)" starting for the first time
-   43.189 D Downloading  "https://media.forgecdn.net/avatars/thumbnails/50/412/256/256/636090834615920242.png"
-   43.231 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/50/412/256/256/636090834615920242.png"
-   43.231 D Task "NetJob(Flame Icon Download 636090834615920242.png)" succeeded
-   43.234 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/179/851/256/256/636789387601122352.png"
-   43.234 D Task "NetJob(Flame Icon Download 636789387601122352.png)" succeeded
-   43.237 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/198/991/256/256/636903583551023626.png"
-   43.237 D Task "NetJob(Flame Icon Download 636903583551023626.png)" succeeded
-   43.239 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/481/67/256/256/637780239462504606.png"
-   43.239 D Task "NetJob(Flame Icon Download 637780239462504606.png)" succeeded
-   43.243 D Download succeeded: "https://media.forgecdn.net/avatars/thumbnails/145/50/256/256/636559868412994213.png"
-   43.243 D Task "NetJob(Flame Icon Download 636559868412994213.png)" succeeded
-   44.016 D "Loading Flame mod versions"
-   44.016 D Task "NetJob(ModVersions(250898))" starting for the first time
-   44.016 D "Loading Flame mod info"
-   44.016 D Task "NetJob(250898::GetProject)" starting for the first time
-   44.016 D Task "Net::Download(0x5615a27d78c0)" starting for the first time
-   44.016 D Downloading  "https://api.curseforge.com/v1/mods/250898"
-   44.017 D Task "Net::Download(0x5615a27ccd80)" starting for the first time
-   44.017 D Downloading  "https://api.curseforge.com/v1/mods/250898/files?pageSize=10000&gameVersion=1.12.2&modLoaderType=1&"
-   44.153 D Download succeeded: "https://api.curseforge.com/v1/mods/250898"
-   44.153 D Task "NetJob(250898::GetProject)" succeeded
-   44.153 D Loading mod info
-   44.153 D Task "NetJob(Flame::ModDescription)" starting for the first time
-   44.153 D Task "Net::Download(0x5615a27f6ab0)" starting for the first time
-   44.153 D Downloading  "https://api.curseforge.com/v1/mods/250898/description"
-   44.256 D Download succeeded: "https://api.curseforge.com/v1/mods/250898/files?pageSize=10000&gameVersion=1.12.2&modLoaderType=1&"
-   44.256 D Task "NetJob(ModVersions(250898))" succeeded
-   44.291 D Download succeeded: "https://api.curseforge.com/v1/mods/250898/description"
-   44.291 D Task "NetJob(Flame::ModDescription)" succeeded
-   49.937 D Task "ConcurrentTask(0x7ff62c011770)" starting for the first time
-   49.937 D Task "ModDownloadTask(0x5615a3203b50)" starting for the first time
-   49.937 D Task "ModDownloadTask(0x5615a2ca6ed0)" starting for the first time
-   49.937 D Task "LocalModUpdateTask(0x5615a27c7900)" starting for the first time
-   49.937 D Task "LocalModUpdateTask(0x5615a27c7900)" succeeded
-   49.938 D Task "NetJob(Mod download)" starting for the first time
-   49.938 D Task "LocalModUpdateTask(0x5615a27b12e0)" starting for the first time
-   49.938 D Task "LocalModUpdateTask(0x5615a27b12e0)" succeeded
-   49.938 D Task "Net::Download(0x5615a27d8290)" starting for the first time
-   49.939 D Downloading  "https://edge.forgecdn.net/files/3150/850/TravelersBackpack-1.12.2-1.0.35.jar"
-   49.939 D Task "NetJob(Mod download)" starting for the first time
-   49.939 D Task "Net::Download(0x5615a27ce8b0)" starting for the first time
-   49.939 D Downloading  "https://edge.forgecdn.net/files/2897/369/OreExcavation-1.4.150.jar"
-   50.426 D Location header: QUrl("https://mediafilez.forgecdn.net/files/3150/850/TravelersBackpack-1.12.2-1.0.35.jar")
-   50.426 D Following redirect to  "https://mediafilez.forgecdn.net/files/3150/850/TravelersBackpack-1.12.2-1.0.35.jar"
-   50.426 D Downloading  "https://mediafilez.forgecdn.net/files/3150/850/TravelersBackpack-1.12.2-1.0.35.jar"
-   50.426 D Download redirected: "https://mediafilez.forgecdn.net/files/3150/850/TravelersBackpack-1.12.2-1.0.35.jar"
-   50.471 D Location header: QUrl("https://mediafilez.forgecdn.net/files/2897/369/OreExcavation-1.4.150.jar")
-   50.471 D Following redirect to  "https://mediafilez.forgecdn.net/files/2897/369/OreExcavation-1.4.150.jar"
-   50.471 D Downloading  "https://mediafilez.forgecdn.net/files/2897/369/OreExcavation-1.4.150.jar"
-   50.471 D Download redirected: "https://mediafilez.forgecdn.net/files/2897/369/OreExcavation-1.4.150.jar"
-   50.600 D Download succeeded: "https://mediafilez.forgecdn.net/files/2897/369/OreExcavation-1.4.150.jar"
-   50.601 D Task "NetJob(Mod download)" succeeded
-   50.601 D Task "ModDownloadTask(0x5615a3203b50)" succeeded
-   50.702 D Download succeeded: "https://mediafilez.forgecdn.net/files/3150/850/TravelersBackpack-1.12.2-1.0.35.jar"
-   50.702 D Task "NetJob(Mod download)" succeeded
-   50.702 D Task "ModDownloadTask(0x5615a2ca6ed0)" succeeded
-   50.702 D Task "ConcurrentTask(0x7ff62c011770)" succeeded
-   60.008 D Stopped watching  "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/instances/FTB Revelation/.minecraft/mods"
-   60.008 D Failed to stop watching  "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/instances/FTB Revelation/.minecraft/mods/.index"
+    0.045 D AccountList: Queued default account with internal ID  "dee5470d3f5a4faba5eebb7a4429e1cd"  to refresh first
+    0.045 D Task "OfflineRefresh(0x5569d378bfb0)" starting for the first time
+    0.045 D AuthFlow: "Creating offline account."
+    0.045 D Task "OfflineRefresh(0x5569d378bfb0)" succeeded
+    0.045 D Writing account list to "accounts.json"
+    0.045 D Building JSON data structure.
+    0.045 D Building account array.
+    0.045 D Writing account list to file.
+    0.046 D Saved account list to "accounts.json"
+    0.046 D RefreshSchedule: Background account refresh succeeded
+    0.046 D RefreshSchedule: Processing account  "<Offline>"  with internal ID  "dee5470d3f5a4faba5eebb7a4429e1cd"
+    0.046 D <> Accounts loaded.
+    0.048 D <> Cache initialized.
+    0.048 D Downloading Translations Index...
+    0.048 W Removing cache entry because of old age!
+    0.048 D Task "NetJob(Translations Index)" starting for the first time
+    0.048 D <> Icon theme set.
+    0.048 D [Theme] applying theme "System"
+    0.048 D <> Application theme set.
+    0.061 D Reloading news.
+    0.061 D Task "NetJob(News RSS Feed)" starting for the first time
+    0.061 D Task "ComponentUpdateTask(0x5569d3702ce0)" starting for the first time
+    0.061 D Loading components
+    0.062 D Component list save is scheduled for "FTB Revelation 3.6.0"
+    0.065 D Resolving dependencies
+    0.065 D "Req: net.minecraft == 1.12.2" Is met.
+    0.065 D "Req: org.lwjgl" Is met.
+    0.065 D Task "ComponentUpdateTask(0x5569d3702ce0)" succeeded
+    0.065 D Component list update/resolve task succeeded for "FTB Revelation 3.6.0"
+    0.088 D <> Main window shown.
+    0.089 D Task "Net::Download(0x5569d3762720)" starting for the first time
+    0.089 D Downloading  "https://prismlauncher.org/feed/feed.xml"
+    0.095 D Task "Net::Download(0x5569d3775060)" starting for the first time
+    0.095 D Downloading  "https://i18n.prismlauncher.org/index_v2.json"
+    0.095 D Dir changed: "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/translations"
+    0.404 D Download succeeded: "https://i18n.prismlauncher.org/index_v2.json"
+    0.404 D Task "NetJob(Translations Index)" succeeded
+    0.404 D Got translations index!
+    0.404 D Dir changed: "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/translations"
+    0.496 D Download succeeded: "https://prismlauncher.org/feed/feed.xml"
+    0.496 D Task "NetJob(News RSS Feed)" succeeded
+    0.496 D Finished loading RSS feed.
+    0.498 D Loaded news entry "[SECURITY UPDATE] Prism Launcher Release 6.3, now available"
+    0.498 D Loaded news entry "Prism Launcher Release 6.2, now available"
+    0.498 D Loaded news entry "Prism Launcher Release 6.1, now available"
+    0.498 D Loaded news entry "Prism Launcher Release 6.0, now available"
+    0.498 D Loaded news entry "Prism Launcher Release 5.2, now available"
+    0.498 D Loaded news entry "Prism Launcher Release 5.1, now available"
+    0.498 D Loaded news entry "Prism Launcher Release 5.0, now available"
+    0.498 D Loaded news entry "PolyMC Update 1.4.2, now available"
+    0.498 D Loaded news entry "PolyMC Update 1.4.1, now available"
+    0.498 D Loaded news entry "PolyMC Update 1.4.0, now available"
+    0.498 D Loaded news entry "PolyMC Update 1.3.2, now available"
+    0.498 D Loaded news entry "PolyMC Update 1.3.1, now available"
+    0.498 D Loaded news entry "PolyMC Update 1.3.0, now available"
+    0.498 D Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
+    0.498 D Loaded news entry "PolyMC Update 1.2.1, now available"
+    0.498 D Loaded news entry "PolyMC Update 1.2.0, now available"
+    0.498 D Loaded news entry "PolyMC Update 1.1.1, now available"
+    0.498 D Loaded news entry "PolyMC Update 1.1.0, now available"
+    0.498 D Loaded news entry "Moving on"
+    0.498 D Loaded news entry "Modrinth support and Mod downloading"
+    0.498 D Loaded news entry "New maintainers and step down."
+    0.498 D News loading succeeded.
+    3.025 D Component list save performed now for "FTB Revelation 3.6.0"
+    3.026 D Task "ComponentUpdateTask(0x5569d3aae480)" starting for the first time
+    3.026 D Loading components
+    3.026 D Index is already loaded
+    3.027 D Component list save is scheduled for "FTB Revelation 3.6.0"
+    3.027 D Resolving dependencies
+    3.027 D "Req: net.minecraft == 1.12.2" Is met.
+    3.027 D "Req: org.lwjgl" Is met.
+    3.027 D Task "ComponentUpdateTask(0x5569d3aae480)" succeeded
+    3.027 D Component list update/resolve task succeeded for "FTB Revelation 3.6.0"
+    3.027 W Removing cache entry because of old age!
+    3.027 D Task "NetJob(Download of meta file org.lwjgl/index.json)" starting for the first time
+    3.034 D Instance-type specific settings were loaded!
+    3.074 D Applying "org.lwjgl" GOOD
+    3.074 D Applying "net.minecraft" GOOD
+    3.074 D Applying "net.minecraftforge" GOOD
+    3.093 D Task "Net::Download(0x5569d3ab6a20)" starting for the first time
+    3.093 D Downloading  "https://meta.prismlauncher.org/v1/org.lwjgl/index.json"
+    3.387 D Download succeeded: "https://meta.prismlauncher.org/v1/org.lwjgl/index.json"
+    3.387 D Task "NetJob(Download of meta file org.lwjgl/index.json)" succeeded
+    4.883 W QFileSystemWatcher::removePaths: list is empty
+    7.777 D Component list save performed now for "FTB Revelation 3.6.0"
+   18.210 D Writing account list to "accounts.json"
+   18.210 D Building JSON data structure.
+   18.210 D Building account array.
+   18.210 D Writing account list to file.
+   18.211 D Saved account list to "accounts.json"
+   18.211 D Writing account list to "accounts.json"
+   18.211 D Building JSON data structure.
+   18.211 D Building account array.
+   18.211 D Writing account list to file.
+   18.212 D Saved account list to "accounts.json"
+   19.538 D Paged dialog close requested
+   19.538 D Sorting icon list...
+   19.538 D Detecting proxy settings...
+   19.539 D Using no proxy is an option!
+   19.539 D Paged dialog close approved
+   19.539 D Paged dialog geometry saved
+   19.552 D Discovering instances in "/home/pegoku/Documents/GitHub/Kasm-PrismLauncher-FTBRevelationModpack/src/ubuntu/install/prism/prism-p/instances"
+   19.552 D Found instance ID "FTB Revelation"
+   19.552 D Should keep and soft-reload "FTB Revelation"
